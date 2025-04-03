@@ -1,0 +1,8 @@
+[package]
+name = "nonlinear"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+autograd = "1.1.1"
+ndarray = "0.16.1"
